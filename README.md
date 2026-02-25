@@ -15,14 +15,14 @@ The assistant integrates Google Gemini API for intelligent AI responses and Porc
 ⚡ **Hands-Free Voice Command Execution**
 
 🛠 TECHNOLOGIES USED
-Python
-pyttsx3 (Text-to-Speech)
-SpeechRecognition
-PyWhatKit
-PyAudio
-Porcupine (Wake Word Engine)
-Google Gemini API
-Feedparser
+- **Python**  
+- **pyttsx3** – Text-to-Speech  
+- **SpeechRecognition**  
+- **PyWhatKit**  
+- **PyAudio**  
+- **Porcupine** – Wake Word Engine  
+- **Google Gemini API**  
+- **Feedparser**
 
 PROJECT STRUCTURE-
 JARVIS-VOICE-ASSISTANT-PYTHON
@@ -33,7 +33,6 @@ README.md
 gitignore
 
 AUTHOR
-Kanishk Bisht
-
-GitHub: @kanishkbisht01@kanishkbisht01
+**Kanishk Bisht**  
+🔗 GitHub: [@kanishkbisht01](https://github.com/kanishkbisht01)
 

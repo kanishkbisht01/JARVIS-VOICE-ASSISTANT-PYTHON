@@ -26,12 +26,11 @@ Feedparser
 
 PROJECT STRUCTURE-
 JARVIS-VOICE-ASSISTANT-PYTHON
-│
-├── MAIN.py
-├── musiclibrary.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+MAIN.py
+musiclibrary.py
+requirements.txt
+README.md
+gitignore
 
 AUTHOR
 Kanishk Bisht

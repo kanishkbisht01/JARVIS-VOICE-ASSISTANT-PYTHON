@@ -2,7 +2,7 @@
 
 JARVIS is an AI-powered Voice Assistant built using Python that performs real-time voice interactions and task automation. It listens to user commands, processes them using Speech Recognition, and responds using Text-to-Speech technology.
 The assistant integrates Google Gemini API for intelligent AI responses and Porcupine for wake word detection ("Jarvis"). It can automate daily tasks like opening websites, playing music, telling the current time, and fetching the latest news.
-
+<div align="center">
 🚀 KEY FEATURES
 🎙 **Wake Word Detection** – using Porcupine  
 🗣 **Real-Time Speech Recognition**  

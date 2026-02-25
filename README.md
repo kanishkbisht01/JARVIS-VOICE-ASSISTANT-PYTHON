@@ -5,6 +5,7 @@ The assistant integrates Google Gemini API for intelligent AI responses and Porc
 
 🚀 KEY FEATURES
 🎙 Wake Word Detection using Porcupine
+<div></div>
 🗣 Real-Time Speech Recognition
 🔊 Text-to-Speech Voice Response
 🌐 Open Chrome, YouTube & Google

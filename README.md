@@ -34,3 +34,7 @@ JARVIS-VOICE-ASSISTANT-PYTHON
 └── .gitignore
 
 AUTHOR
+Kanishk Bisht
+
+GitHub: @kanishkbisht01@kanishkbisht01
+
